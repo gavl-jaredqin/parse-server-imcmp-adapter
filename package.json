@@ -1,0 +1,25 @@
+{
+  "name": "parse-server-imcmp-adapter",
+  "version": "0.0.1",
+  "description": "Parse IMC Mobile Push Adapter",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/gavl-jaredqin/parse-server-imcmp-adapter.git"
+  },
+  "author": "Jared Qin <jared.qin@gavl.com.au>",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/gavl-jaredqin/parse-server-imcmp-adapter/issues"
+  },
+  "homepage": "https://github.com/gavl-jaredqin/parse-server-imcmp-adapter#readme",
+  "dependencies": {
+    "lodash": "^4.17.4",
+    "npmlog": "^4.1.0",
+    "parse": "^1.9.2",
+    "request": "^2.81.0"
+  }
+}
